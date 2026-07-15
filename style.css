@@ -1,0 +1,29 @@
+
+body::before{
+    content: "";
+    display: block;
+    height: 70px;
+}
+
+
+nav{
+     background-color: #008B8B;
+}
+
+.main{
+    background: linear-gradient(148deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 50%, rgba(0, 212, 255, 1) 100%);
+}
+
+.gradient{
+    background: linear-gradient(360deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 78%, rgba(0, 212, 255, 1) 100%);
+}
+.base{
+    background-color: #008B8B;
+}
+.basee{
+    background-color: black;
+}
+
+.cards{
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+}
